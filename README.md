@@ -9,7 +9,7 @@
 - 🧑‍🏫 &nbsp; Apaixonado por ensinar pessoas;
 - 🖥️ &nbsp; Entusiasta da tecnologia;
 - 💬 &nbsp; Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/felps/);
-- 📫 &nbsp; Ou também no email: [felipmartins94@gmail.com](malito:felipmartins94@gmail.com);
+- 📫 &nbsp; Ou também no email: [felipmartins94@gmail.com](mailto:felipmartins94@gmail.com);
 - 🇯🇵 &nbsp; Amante de jogos e da cultura japonesa;
 - 💪 &nbsp; Encarando desafios de frente desde 1994;
 - 🇲🇽 &nbsp; Fato curioso: sou nascido no México <s>só não sei falar nada em espanhol e nem curto pimenta 🫠</s>

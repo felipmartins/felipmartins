@@ -10,13 +10,13 @@
 
 - 🖥️ **Entusiasta da tecnologia**
 
-- 📫 Você me encontra no email **felipmartins94@gmail.com**
+- 📫 **Você me encontra no email felipmartins94@gmail.com**
 
-- 💬 Ou pode se conectar comigo no [LinkedIn](https://www.linkedin.com/in/felps/)
+- 💬 **Ou pode se conectar comigo no [LinkedIn](https://www.linkedin.com/in/felps/)**
 
-- 🇯🇵 Amante de jogos e da cultura japonesa
+- 🇯🇵 **Amante de jogos e da cultura japonesa**
 
-- 🇲🇽 Fato curioso: ~~**sou nascido no México só não sei falar nada em espanhol e nem curto pimenta 🫠**~~
+- 🇲🇽 **Fato curioso:** ~~**sou nascido no México só não sei falar nada em espanhol e nem curto pimenta 🫠**~~
 
 <p align="center">
     <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">

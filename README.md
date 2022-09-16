@@ -83,13 +83,13 @@
             <img src="https://skillicons.dev/icons?i=mongodb" />
         </a>
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=postgres" />
-        </a>
-        <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=heroku" />
         </a>
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=aws" />
+        </a>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=nginx" />
         </a>
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=py" />

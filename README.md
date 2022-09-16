@@ -76,6 +76,10 @@
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=sqlite /">
         </a>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=mysql" />
+        </a>
+       
     </p>
 </div>
 

@@ -39,6 +39,11 @@
 </div>
 
 <div align="center">
+  <h2> Tecnologias 🖥️ e Ferramentas ⚙️ </h2>
+
+</div>
+
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=felipmartins&theme=dark&border_radius=5&locale=pt-br&date_format=j%20M%5B%20Y%5D&bg_color=000000&ring=FF0000&icon_color=FF0000&title_color=FF0000&text_color=FFFFFF&show_icons=true&include_all_commits=true&count_private=true" width=45% alt="Contribuições de Felps">
     <img src="https://streak-stats.demolab.com?user=felipmartins&theme=dark&border_radius=5&locale=pt-br&date_format=j%20M%5B%20Y%5D&background=000000&fire=FF0000&ring=FF0000&currStreakLabel=FFFFFF" width=45% alt="Status de sequência de Felps">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipmartins&layout=compact&theme=dark&border_radius=5&locale=pt-br&date_format=j%20M%5B%20Y%5D&bg_color=000000&card_width=400&custom_title=Linguagens%20mais%20usadas%20por%20Felps" alt="Top Linguagens de Felps" >

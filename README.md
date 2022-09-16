@@ -72,6 +72,11 @@
             <img src="https://skillicons.dev/icons?i=selenium" />
         </a>
     </p>
+    <p>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=sqlite /">
+        </a>
+    </p>
 </div>
 
 <div align="center">

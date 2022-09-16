@@ -14,5 +14,8 @@
         <a href="https://skillicons.dev">
             <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="50" height="50" />
         </a>
+        <a href="https://skillicons.dev">
+            <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Telegram.svg" width="50" height="50" />
+        </a>
     </p>
 </div>

@@ -56,7 +56,10 @@
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=bootstrap" />
         </a>
-        
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=react" />
+        </a>
+       
     </p>
 </div>
 

@@ -40,7 +40,11 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=felipmartins&theme=dark&border_radius=5&locale=pt-br&date_format=j%20M%5B%20Y%5D&bg_color=000000&ring=FF0000&icon_color=FF0000&title_color=FF0000&text_color=FFFFFF&show_icons=true&include_all_commits=true&count_private=true" width=45%>
+   <img src="https://streak-stats.demolab.com?user=felipmartins&theme=dark&border_radius=5&locale=pt-br&date_format=j%20M%5B%20Y%5D&background=000000&fire=FF0000&ring=FF0000&currStreakLabel=FFFFFF" width=45%>
+
+
 </div>
+
 
 <br>
 

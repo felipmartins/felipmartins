@@ -38,6 +38,12 @@
     </p>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=felipmartins&theme=dark&border_radius=5&locale=pt-br&date_format=j%20M%5B%20Y%5D&bg_color=000000&ring=FF0000&icon_color=FF0000&title_color=FF0000&text_color=FFFFFF&show_icons=true&include_all_commits=true&count_private=true" width=45%>
+</div>
+
+<br>
+
 <div align="center" >
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3500&pause=1000&color=F7F7F7&width=750&height=60&lines=Tenha+const%C3%A2ncia+e+seja+persistente!" alt="Typing SVG" /></a>
 </div>

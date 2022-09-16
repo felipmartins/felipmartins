@@ -68,7 +68,9 @@
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=ts" />
         </a>
-        
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=selenium" />
+        </a>
     </p>
 </div>
 

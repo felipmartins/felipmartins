@@ -82,6 +82,9 @@
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=mongodb" />
         </a>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=postgres" />
+        </a>
         
     </p>
 </div>

@@ -39,8 +39,12 @@
 </div>
 
 <div align="center">
-  <h2> Tecnologias 🖥️ e Ferramentas ⚙️ </h2>
-
+    <h2> Tecnologias 🖥️ e Ferramentas ⚙️ </h2>
+    <p>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=bash" />
+        </a>
+    </p>
 </div>
 
 <div align="center">

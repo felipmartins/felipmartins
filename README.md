@@ -37,3 +37,8 @@
         </a>
     </p>
 </div>
+
+
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=felipmartins&label=PROFILE+VIEWS&style=plastic&color=FF0000" alt="Quantidade de visitas">
+</div>

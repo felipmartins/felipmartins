@@ -100,7 +100,9 @@
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=flask" />
         </a>
-
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=fastapi" />
+        </a>
     </p>
 </div>
 

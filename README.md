@@ -94,7 +94,10 @@
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=py" />
         </a>
-        
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=django" />
+        </a>
+       
     </p>
 </div>
 

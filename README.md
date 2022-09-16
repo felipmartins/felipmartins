@@ -91,6 +91,9 @@
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=aws" />
         </a>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=py" />
+        </a>
         
     </p>
 </div>

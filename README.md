@@ -85,6 +85,9 @@
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=postgres" />
         </a>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=heroku" />
+        </a>
         
     </p>
 </div>

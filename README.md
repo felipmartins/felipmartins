@@ -88,6 +88,9 @@
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=heroku" />
         </a>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=aws" />
+        </a>
         
     </p>
 </div>

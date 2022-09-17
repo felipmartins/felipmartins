@@ -8,7 +8,7 @@
         <a href="https://github.com/felipmartins">
             <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg" width="50" height="50" />
         </a>
-        <a href="https://skillicons.dev">
+        <a href="https://www.linkedin.com/in/felps/">
             <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="50" height="50" />
         </a>
         <a href="https://skillicons.dev">

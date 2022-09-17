@@ -26,13 +26,13 @@
         <a href="www.instagram.com/_felpsm">
             <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" width="50" height="50" />
         </a>
-        <a href="https://skillicons.dev">
+        <a href="https://discordapp.com/users/302086030914224129">
             <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Discord.svg" width="50" height="50" />
         </a>
         <a href="https://www.twitch.tv/outrofelps">
             <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitch.svg" width="50" height="50" />
         </a>
-        <a href="https://skillicons.dev">
+        <a href="http://live.xbox.com/Profile?Gamertag=Felps1567">
             <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Xbox.svg" width="50" height="50" />
         </a>
     </p>

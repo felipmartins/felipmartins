@@ -23,13 +23,13 @@
         <a href="https://www.youtube.com/channel/UC-O6XqnTeHr0WmFyPNx-75Q">
             <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" width="50" height="50" />
         </a>
-        <a href="https://skillicons.dev">
+        <a href="www.instagram.com/_felpsm">
             <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" width="50" height="50" />
         </a>
         <a href="https://skillicons.dev">
             <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Discord.svg" width="50" height="50" />
         </a>
-        <a href="https://skillicons.dev">
+        <a href="https://www.twitch.tv/outrofelps">
             <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitch.svg" width="50" height="50" />
         </a>
         <a href="https://skillicons.dev">

@@ -23,7 +23,7 @@
         <a href="https://www.youtube.com/channel/UC-O6XqnTeHr0WmFyPNx-75Q">
             <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" width="50" height="50" />
         </a>
-        <a href="www.instagram.com/_felpsm">
+        <a href="https://www.instagram.com/_felpsm">
             <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" width="50" height="50" />
         </a>
         <a href="https://discordapp.com/users/302086030914224129">

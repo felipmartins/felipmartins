@@ -11,7 +11,7 @@
         <a href="https://www.linkedin.com/in/felps/">
             <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="50" height="50" />
         </a>
-        <a href="malito:felipmartins94@gmail.com">
+        <a href="mailto:felipmartins94@gmail.com">
             <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="50" height="50" />
         </a>
         <a href="https://skillicons.dev">

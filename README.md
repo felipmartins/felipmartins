@@ -14,10 +14,10 @@
         <a href="mailto:felipmartins94@gmail.com">
             <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="50" height="50" />
         </a>
-        <a href="https://skillicons.dev">
+        <a href="https://wa.me/5531994702122">
             <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" width="50" height="50" />
         </a>
-        <a href="https://skillicons.dev">
+        <a href="https://t.me/Felpsm">
             <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Telegram.svg" width="50" height="50" />
         </a>
         <a href="https://skillicons.dev">

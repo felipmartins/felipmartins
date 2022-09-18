@@ -94,7 +94,7 @@
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=py" />
         </a>
-        <a href="https://skillicons.dev">
+        <a href="https://docs.djangoproject.com/en/4.1/">
             <img src="https://skillicons.dev/icons?i=django" />
         </a>
         <a href="https://skillicons.dev">

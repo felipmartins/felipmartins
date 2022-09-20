@@ -1,5 +1,8 @@
 <div align="center">
-    <h1> Hello there! Pode me chamar de Felps!😁 </h1>
+    <img src="https://komarev.com/ghpvc/?username=felipmartins&label=PROFILE+VIEWS&style=plastic&color=FF0000" alt="Quantidade de visitas" align="right">
+</div>
+<div align="center">
+    <h1>Hello there! Pode me chamar de Felps!😁 </h1>
 </div>
 
 <div align="center">
@@ -119,5 +122,5 @@
 </div>
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=felipmartins&label=PROFILE+VIEWS&style=plastic&color=FF0000" alt="Quantidade de visitas">
+    <img src="https://tgs.fly.dev/felipmartins" align="right" height=115>
 </div>

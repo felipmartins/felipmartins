@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=felipmartins&label=PROFILE+VIEWS&style=plastic&color=FF0000" alt="Quantidade de visitas" align="right">
+    <img src="https://komarev.com/ghpvc/?username=felipmartins&label=VISITAS&style=plastic&color=FF0000" alt="Quantidade de visitas" align="right">
 </div>
 <div align="center">
     <h1>Hello there! Pode me chamar de Felps!😁 </h1>

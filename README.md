@@ -122,5 +122,5 @@
 </div>
 
 <div align="center">
-    <img src="https://tgs.fly.dev/felipmartins" align="right" height=115>
+    <img src="https://tgs.fly.dev/felipmartins" align="right" height=110>
 </div>

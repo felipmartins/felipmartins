@@ -88,7 +88,7 @@
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=heroku" />
         </a>
-        <a href="https://skillicons.dev">
+        <a href="https://aws.amazon.com/pt/">
             <img src="https://skillicons.dev/icons?i=aws" />
         </a>
         <a href="https://skillicons.dev">

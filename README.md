@@ -120,7 +120,3 @@
 <div align="center" >
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3500&pause=1000&color=F7F7F7&width=750&height=60&lines=Tenha+const%C3%A2ncia+e+seja+persistente!" alt="Tenha constância e seja persistente" /></a>
 </div>
-
-<div align="center">
-    <img src="https://tgs.fly.dev/felipmartins" align="right" height=110>
-</div>

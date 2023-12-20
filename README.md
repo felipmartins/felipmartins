@@ -60,16 +60,13 @@
             <img src="https://skillicons.dev/icons?i=bootstrap" />
         </a>
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=react" />
+            <img src="https://skillicons.dev/icons?i=tailwind" />
         </a>
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=js" />
         </a>
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=nodejs" />
-        </a>
-        <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=ts" />
         </a>
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=selenium" />
@@ -84,9 +81,6 @@
         </a>
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=mongodb" />
-        </a>
-        <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=heroku" />
         </a>
         <a href="https://aws.amazon.com/pt/">
             <img src="https://skillicons.dev/icons?i=aws" />
